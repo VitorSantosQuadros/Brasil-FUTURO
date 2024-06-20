@@ -49,24 +49,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Com uma estratégia bem elaborada você faz as melhores escolhas possiveis, e o Brasil acaba finalmente se tornando uma potencia mundial.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao: "A população te ama, e você se sente realizado por ter ajudado tantas pessoas de uma só vez."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Com o poder que você ganhou, você começa a se corromper e acaba tornando o Brasil uma potencia mundial, mas também uma monarquia.",
+                afirmacao: "A população se sente traida e agradecida ao mesmo tempo, e você ganha tanto poder mas se sente tão triste e deprimido por ter no fundo traido o povo."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Do nada explode uma Terceira Guerra Mundial. O que você faz? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Eu entro na guerra e faço aliança com Israel e Alemanha para lutar contra a Arabia, China e Russia.",
+                afirmacao: "Felismente ganhamos a guerra ."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Eu fico neutro e ameaço com a minha bomba atômica todos os que tentarem atacar o Brasil.",
+                afirmacao: "Infelismente o Japão atacou nois e tiveram que conhecer a nova Hiroshima e Nagazaki."
             }
         ]
     },
