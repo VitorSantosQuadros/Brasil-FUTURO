@@ -66,7 +66,7 @@ const perguntas = [
             },
             {
                 texto: "Eu fico neutro e ameaço com a minha bomba atômica todos os que tentarem atacar o Brasil.",
-                afirmacao: "Infelismente o Japão atacou nois e tiveram que conhecer a nova Hiroshima e Nagazaki."
+                afirmacao: "Infelismente o Japão atacou nos e tiveram que conhecer a nova Hiroshima e Nagazaki."
             }
         ]
     },
