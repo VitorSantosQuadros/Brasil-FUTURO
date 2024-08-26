@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu entro na guerra e faço aliança com Israel e Alemanha para lutar contra a Arabia, China e Russia.",
-                afirmacao: "Felismente ganhamos a guerra ."
+                afirmacao: "Felizmente ganhamos a guerra ."
             },
             {
                 texto: "Eu fico neutro e ameaço com a minha bomba atômica todos os que tentarem atacar o Brasil.",
-                afirmacao: "Infelismente o Japão atacou nos e tiveram que conhecer a nova Hiroshima e Nagazaki."
+                afirmacao: "Infelizmente o Japão atacou nos e tiveram que conhecer a nova Hiroshima e Nagazaki."
             }
         ]
     },
