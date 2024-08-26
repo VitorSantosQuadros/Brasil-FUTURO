@@ -96,7 +96,7 @@ export const perguntas = [
             {
                 texto: "Eu fico neutro e ameaço com a minha bomba atômica todos os que tentarem atacar o Brasil.",
                 afirmacao: [
-                    "Infelismente o Japão atacou nos e tiveram que conhecer a nova Hiroshima e Nagazaki.",
+                    "Infelizmente o Japão atacou nos e tiveram que conhecer a nova Hiroshima e Nagazaki.",
                     "No fim ninguém atacou a gente, pois ficaram com medo de serem atingidos pela bomba atômica.",
                 ],
             },
